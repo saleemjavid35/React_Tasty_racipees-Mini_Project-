@@ -1,0 +1,20 @@
+.sort-by-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.restaurants-header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 50px;
+}
+.restaurants-heading {
+  font-size: 20px;
+}
+.sort-by {
+  font-size: 15px;
+}
+.choose-description {
+  font-size: 12px;
+}

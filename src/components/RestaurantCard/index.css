@@ -1,0 +1,41 @@
+.restaurant-item {
+  display: flex;
+  height: 130px;
+  width: 400px;
+  margin-bottom: 10px;
+}
+.restaurant-logo {
+  width: 160px;
+  height: 120px;
+  border-radius: 8px;
+}
+.restaurant-title {
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  color: #334155;
+}
+.rating-container {
+  display: flex;
+  flex-direction: row;
+}
+.cuisine {
+  font-size: 14px;
+}
+.rating {
+  font-size: 14px;
+}
+.star {
+  color: #ffcc00;
+}
+.restaurant-link {
+  text-decoration: none;
+}
+.total-reviews-count {
+  font-size: 12px;
+  font-weight: 300;
+  color: #334155;
+}

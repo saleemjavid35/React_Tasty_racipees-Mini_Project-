@@ -1,0 +1,37 @@
+.footer-container {
+  background-color: #0f172a;
+  padding: 50px;
+}
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer-logo {
+  width: 49px;
+  height: 39px;
+}
+.footer-title {
+  font-family: DM Sans;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
+  color: #ffffff;
+}
+.footer-text {
+  color: #ffffff;
+  font-size: 12px;
+  text-align: center;
+}
+.icons-container {
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.icon {
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+}

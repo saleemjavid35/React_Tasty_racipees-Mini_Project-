@@ -1,0 +1,39 @@
+.item-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 45%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.item-details {
+  margin-left: 10px;
+}
+.item-image {
+  height: 150px;
+  width: 250px;
+  border-radius: 8px;
+}
+.item-name {
+  font-size: 15px;
+}
+.item-cost {
+  font-size: 13px;
+}
+.rating-section {
+  padding-top: 0px;
+  margin-top: 0px;
+}
+.star {
+  height: 12px;
+}
+.rating {
+  font-size: 12px;
+}
+.add-btn {
+  background-color: transparent;
+  color: #ffa412;
+  border-color: #ffa412;
+  border-style: solid;
+  border-radius: 3px;
+}

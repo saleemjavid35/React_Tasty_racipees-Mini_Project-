@@ -1,0 +1,70 @@
+.banner-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #333333;
+  padding: 15px;
+  color: #ffffff;
+}
+.banner-card {
+  display: flex;
+  align-items: center;
+}
+.banner-image {
+  height: 280px;
+  width: 450px;
+  border-radius: 5px;
+}
+.details-section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 10px;
+}
+.name {
+  font-size: 20px;
+}
+.rating-cost-section {
+  display: flex;
+  align-items: center;
+}
+.rating-section {
+  display: flex;
+  align-items: center;
+}
+.rating-container {
+  display: flex;
+  flex-direction: column;
+  font-size: 11px;
+}
+.start {
+  height: 11px;
+}
+.reviews {
+  font-size: 11px;
+}
+.cost-for-two {
+  font-size: 11px;
+  margin-top: 20px;
+}
+.cost-for-two-section {
+  margin-left: 20px;
+}
+.location {
+  font-size: 12px;
+}
+.cuisine {
+  font-size: 11px;
+}
+.rating {
+  font-size: 12px;
+}
+.items-section {
+  padding: 50px;
+}
+.items-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
