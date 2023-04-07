@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unknown-property */
 import {Component} from 'react'
 import {BsFillStarFill} from 'react-icons/bs'
 import Counter from '../Counter'

@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unknown-property */
 import {Link} from 'react-router-dom'
 import {BsFillStarFill} from 'react-icons/bs'
 import './index.css'
@@ -9,7 +10,7 @@ const RestaurantCard = props => {
 
   return (
     <Link to={`/restaurant/${id}`} className="restaurant-link">
-      <li className="restaurant-item" testid="restaurant-item">
+      <li className="restaurant-item">
         <img src={imageUrl} alt="restaurant logo" className="restaurant-logo" />
         <div className="restaurant-details">
           <h1 className="restaurant-title">{name}</h1>

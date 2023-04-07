@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unknown-property */
 import {Link} from 'react-router-dom'
 import CartContext from '../../context/CartContext'
 
